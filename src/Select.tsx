@@ -28,3 +28,4 @@ interface SelectProps {
 }
 
 export default Select
+export type { SelectProps }
